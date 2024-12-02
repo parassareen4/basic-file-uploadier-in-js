@@ -1,2 +1,6 @@
 just a plain file uploading system
-it uses multer so npm install is needed
+it uses multer,
+
+to run locally
+npm i
+node index.js
